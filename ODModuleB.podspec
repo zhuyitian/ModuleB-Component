@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |spec|
 
-  spec.name         = "ModuleB"
+  spec.name         = "ODModuleB"
   spec.version      = "0.0.1"
   spec.summary      = "这是业务模块B 组件"
 
